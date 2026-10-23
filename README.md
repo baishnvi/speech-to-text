@@ -1,4 +1,4 @@
-# Bol — Real-time Hindi + English Speech to Text
+# Bolo — Real-time Hindi + English Speech to Text
 
 Speak into your mic and watch the words appear live. Mixed Hindi/English works.
 Every recording is saved to PostgreSQL and managed from a history dashboard
