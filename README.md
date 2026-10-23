@@ -107,3 +107,6 @@ Free instances sleep when idle, so the first request can take ~30 s.
   Live model, change the env var; no code change needed.
 - Language label (Hindi / English / Hindi + English) is derived from the
   scripts present in the transcript.
+
+## Live Demo Image
+<img width="1366" height="768" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/2f0f71e6-2910-41bd-b014-21eadec7489b" />
